@@ -34,25 +34,25 @@
                             <li><a href="./otherf.php">Other</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Default Constants</a></li>
+                    <li><a href="./constants.php">Default Constants</a></li>
                     <li><a href="#">Instructions</a></li>
                     <li><a href="#">Videos</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Others<span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#">Installation</a></li>
-                            <li><a href="#">Flowgorithm in detail</a></li>
-                            <li><a href="#">Flowgorithm Windows</a></li>
-                            <li><a href="#">Contextual Menu</a></li>
-                            <li><a href="#">For System Administrators</a></li>
-                            <li><a href="#">Create a Translation</a></li>
+                            <li><a href="./404.php">Installation</a></li>
+                            <li><a href="./404.php">Flowgorithm in detail</a></li>
+                            <li><a href="./404.php">Flowgorithm Windows</a></li>
+                            <li><a href="./404.php">Contextual Menu</a></li>
+                            <li><a href="./404.php">For System Administrators</a></li>
+                            <li><a href="./404.php">Create a Translation</a></li>
                             <!-- <li role="separator" class="divider"></li> -->
-                            <li><a href="#">Source File Format</a></li>
+                            <li><a href="./404.php">Source File Format</a></li>
                             <!-- <li role="separator" class="divider"></li> -->
-                            <li><a href="#">Programming and Flowgorithm</a></li>
-                            <li><a href="#">Programming Paradigm</a></li>
-                            <li><a href="#">Previous Versions</a></li>
-                            <li><a href="#">Exercises</a></li>
+                            <li><a href="./404.php">Programming and Flowgorithm</a></li>
+                            <li><a href="./404.php">Programming Paradigm</a></li>
+                            <li><a href="./404.php">Previous Versions</a></li>
+                            <li><a href="./404.php">Exercises</a></li>
                         </ul>
                     </li>
                 </ul>
