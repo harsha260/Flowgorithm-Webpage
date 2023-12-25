@@ -35,7 +35,58 @@
                         </ul>
                     </li>
                     <li><a href="./constants.php">Default Constants</a></li>
-                    <li><a href="#">Instructions</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Instructions<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">Outputs</a></li>
+                            <li><a href="#">Input</a></li>
+                            <li><a href="#">Assignment</a></li>
+                            <li><a href="#">Comment</a></li>
+                            <li><a href="#">Declaration</a></li>
+                            <li><a href="#">If</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Repetition cycles<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">For</a></li>
+                                    <li><a href="#">Do</a></li>
+                                    <li><a href="#">While</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Function or Procedure Call</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Turtle graphics<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Rotate</a></li>
+                                    <li><a href="#">Push forward</a></li>
+                                    <li><a href="#">Starting point</a></li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Examples<span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="#">Drawing of a flower</a></li>
+                                            <li><a href="#">Stairways</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">File Management<span class="caret"></span></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">Reading</a></li>
+                                    <li><a href="#">Writing</a></li>
+                                    <li><a href="#">Closure</a></li>
+                                    <li><a href="#">Opening</a></li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Examples<span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="#">Fibonacci with file usage</a></li>
+                                            <li><a href="#">Calculation of squares</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Conditional intrruptions</a></li>
+                        </ul>
+                    </li>
                     <li><a href="#">Videos</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Others<span class="caret"></span></a>
